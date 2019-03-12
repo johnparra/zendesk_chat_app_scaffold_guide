@@ -18,6 +18,6 @@ export default function (args) {
     </p>
     </form>
     <footer>
-      <a href="https://github.com/johnparra/chat_app_scaffold_zendesk/issues/new" target="_blank">Report bugs</a>
+      <a href="https://github.com/johnparra/zendesk_chat_app_scaffold_guide/issues/new" target="_blank">Report bugs</a>
     </footer>`
 }
